@@ -1,0 +1,7 @@
+Progress week 3
+
+Previously we had our login screen and signup button and we created an activity where user could provide required information to signup for the app. 
+For this week, we focused on creating a search bar where users would be able to search for services that are being offered by sellers on the app. It was not easy to achieve this feature. We watched few YouTube videos to finally get it to work. Also, this week was kind of slow as far as progress because everyone in our group had exams this weeks and projects due. We were not able to achieve everything we had planned for this week. However, we look to definitely get majority of the project done during thanksgiving break. 
+
+Work distribution
+For this week Azhar was responsible for doing the background and color scheme. I noticed that it was the same as previous activity. Us as a group agreed that it did look good. Tahir and I were responsible for making the search bar work in android studio. All of us watched YouTube video together to learn the steps on how to do it.  And in the end all of us contributed to get it to work how we wanted. It was a very satisfying moment when it finally worked. I would say all of us in our group are very passionate to finish this app and are contributing equally.
