@@ -1,0 +1,8 @@
+Progress week 5
+
+Previously we had our login screen and signup button and we created an activity where user could provide required information to signup for the app. We also created a search bar that allowed user to search for services that are currently being offer on the app. We added an activity where they could search for services or creat a seller profile. We asked them for their business name, services they offer, location (zip code) and lastly any other details they would like to display on their profile. Every user will only be able to creat one seller profile. 
+
+For this week, we worked on how we wanted our seller profile to look like visually. If you look at our picture that’s attached you can see we have a profile picture of the business first, then it’s their rating out of 5 stars. This will help a buyer decide if they want to look more in depth at this seller. Then we have their name and also a button which takes the buyer to read their reviews. Then we have displayed all the details that the seller wants to show on their profile like the services they offer, their prices and their location. 
+
+Work distribution
+For this week, Mohmmadazhar and I were responsible for making the activity. Tahir did the research for profile picture and got it to work. We tried to get it so the user could upload their own for this class purpose but it was very difficult. All of us I would say worked on the formatting together and it came out how we wanted it to. If we had more time, we definitely had more features we would’ve loved to add.
