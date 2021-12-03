@@ -1,0 +1,16 @@
+The problem? Why is it important?
+● We feel like there are so many people who has skills that they can use as a side business and make
+some extra money
+● We also feel like there are many customers who are looking to get a specific minor job done but they
+don’t want to hire professional who are very expensive.
+
+Detailed, step-by-step, build/installation/initialization/launch instructions
+-> Self Explanatory
+
+ Detailed instructions how to use the software
+-> Self explanatory
+
+All materials, including (as applicabale) source codes, images, icons, header files, libraries, databases
+->everything is included in the file
+
+A .apk executable file is also included in the folder
